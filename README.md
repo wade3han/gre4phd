@@ -4,7 +4,7 @@
 
 A simple code using minichain to obtain information for this.
 
-The result is online at [seungjuhan.me/gre4phd/](http://localhost:4000/gre4phd/).
+The result is online at [seungjuhan.me/gre4phd/](https://seungjuhan.me/gre4phd/).
 
 Check out `admission.csv` that contains the URLs about admission requirements for PhD programs in the US.
 
