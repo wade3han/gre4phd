@@ -1,3 +1,5 @@
+![seungjuh_Robots_studying_english_exam_cute_robots_5ff3a87c-16e0-4711-8623-d6474e661f46](https://user-images.githubusercontent.com/34769499/229543292-aeca6969-d132-4db8-be69-936e89322243.png)
+
 # Do I need GRE for PhD admission?
 
 A simple code using minichain to obtain information for this.
